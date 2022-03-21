@@ -1,2 +1,2 @@
 ### Hi there 👋
-looking for stuff to contribute lmao
+looking for scpsl plugin ideas
